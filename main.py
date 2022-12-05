@@ -1,8 +1,6 @@
 import random
 import string
 import sys
-
-key = "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX"
 def generateKey(key):
     finalKey= []
     mix = string.ascii_uppercase + string.digits
